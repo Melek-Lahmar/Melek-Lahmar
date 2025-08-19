@@ -37,7 +37,7 @@
 ## 💻 GitHub Repositories
 
 Check out my projects here:  
-**[GitHub – Melek Lahmar](https://github.com/meleklahmar)**  
+**[GitHub – Melek Lahmar](https://github.com/Melek-Lahmar)**  
 
 - **StockSalesManagement** – ASP.NET Core MVC + SQL Server + Entity Framework  
 - **DeliveryManagement** – JavaFX + MySQL (MVC & DAO)  
@@ -48,5 +48,5 @@ Check out my projects here:
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Melek Lahmar](https://www.linkedin.com/in/melek-lahmar-2451962b6) – Connect with me for networking, collaboration, or internship opportunities.  
-- **Email:** [melek.lahmar@example.com](mailto:lahmarmelek67@example.com) – Feel free to reach out for professional inquiries or project discussions.  
-- **GitHub:** [github.com/meleklahmar](https://github.com/Melek-Lahmar) – Explore my projects and contributions.
+- **Email:** [lahmarmelek67@gmail.com](mailto:lahmarmelek67@gmail.com) – Feel free to reach out for professional inquiries or project discussions.  
+- **GitHub:** [github.com/Melek-Lahmar](https://github.com/Melek-Lahmar) – Explore my projects and contributions.
