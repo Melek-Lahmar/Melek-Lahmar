@@ -1,43 +1,49 @@
 # 👋 Hi, I'm Melek Lahmar
 
 🎓 **3rd-Year Information Systems Development Student** | ISET Sfax  
-💻 Passionate about **Web & App Development**, **Databases**, and **Cloud Technologies**  
+💻 Passionate about **Web & Application Development**, **Databases**, and **Cloud Technologies**  
 🚀 Seeking a **Graduation Internship (PFE)** starting **February 2026**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-- **Languages:** Java, C#, PHP, Python, SQL, JavaScript  
-- **Frameworks & Libraries:** ASP.NET Core, Spring Boot, Laravel, Django, Node.js, Next.js, Express.js, Bootstrap, Entity Framework  
-- **Databases:** MySQL, SQL Server, Oracle  
-- **Tools & Platforms:** Git/GitHub, Visual Studio, IntelliJ IDEA, Docker
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📚 Featured Academic Projects
+## 📚 Selected Academic Projects
 
 **1️⃣ Stock & Sales Management App** – *ASP.NET Core MVC + SQL Server + Entity Framework*  
-- Managed products, clients, sales, and automated invoice generation.  
-- Implemented stock updates on purchases and sales.  
-- Designed a clear MVC architecture for maintainable code.  
+- Managed products, clients, and sales with automated invoice generation.  
+- Implemented real-time stock updates on purchases and sales.  
+- Designed a clean and maintainable MVC architecture.
 
-**2️⃣ Delivery Management App** – *JavaFX + MySQL (DAO/MVC)*  
-- Handled couriers, clients, and orders efficiently.  
-- Applied DAO and MVC patterns to separate concerns.  
-- Focused on scalability and clean user interface.  
+**2️⃣ Delivery Management System** – *JavaFX + MySQL (MVC & DAO)*  
+- Managed deliveries, customers, and logistics efficiently.  
+- Applied DAO pattern for database operations and maintainability.
 
-**3️⃣ E-commerce Website** – *PHP + MySQL + Bootstrap*  
-- Implemented user authentication, favorites, and shopping cart features.  
-- Developed admin panel for product management.  
-- Optimized database queries for faster performance.  
+**3️⃣ Ecommerce Website** – *PHP + MySQL + Bootstrap*  
+- Developed a full-featured e-commerce platform.  
+- Implemented product catalog, shopping cart, and user authentication.
+
+---
+
+## 📊 GitHub Stats
+
+![Melek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melek-Lahmar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melek-Lahmar&layout=compact&theme=radical)
 
 ---
 
 ## 💻 GitHub Repositories
 
-Check out my projects here:  
-**[GitHub – Melek Lahmar](https://github.com/Melek-Lahmar)**  
+Explore my work: **[GitHub – Melek Lahmar](https://github.com/Melek-Lahmar)**  
 
 - **StockSalesManagement** – ASP.NET Core MVC + SQL Server + Entity Framework  
 - **DeliveryManagement** – JavaFX + MySQL (MVC & DAO)  
@@ -45,8 +51,8 @@ Check out my projects here:
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
-- **LinkedIn:** [Melek Lahmar](https://www.linkedin.com/in/melek-lahmar-2451962b6) – Connect with me for networking, collaboration, or internship opportunities.  
-- **Email:** [lahmarmelek67@gmail.com](mailto:lahmarmelek67@gmail.com) – Feel free to reach out for professional inquiries or project discussions.  
-- **GitHub:** [github.com/Melek-Lahmar](https://github.com/Melek-Lahmar) – Explore my projects and contributions.
+- **LinkedIn:** [Melek Lahmar](https://www.linkedin.com/in/melek-lahmar-2451962b6) – Let’s connect for networking or internship opportunities.  
+- **Email:** [lahmarmelek67@gmail.com](mailto:lahmarmelek67@gmail.com) – Reach out for professional inquiries or collaboration.  
+- **GitHub:** [github.com/Melek-Lahmar](https://github.com/Melek-Lahmar) – Check out my projects and contributions.
