@@ -49,9 +49,8 @@
 
 Explore my work: **[GitHub – Melek Lahmar](https://github.com/Melek-Lahmar)**  
 
-- **StockSalesManagement** – ASP.NET Core MVC + SQL Server + Entity Framework  
-- **DeliveryManagement** – JavaFX + MySQL (MVC & DAO)  
-- **EcommerceWebsite** – PHP + MySQL + Bootstrap  
+- **[StockSalesManagement](https://github.com/Melek-Lahmar/ApplicationDeGestionERP)** – ASP.NET Core MVC + SQL Server + Entity Framework  
+
 
 ---
 
