@@ -34,12 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Melek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melek-Lahmar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melek-Lahmar&layout=compact&theme=radical)
-
----
 
 ## 💻 GitHub Repositories
 
