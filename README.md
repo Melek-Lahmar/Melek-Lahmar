@@ -240,7 +240,7 @@ Main modules:
 **Tech stack:**  
 ASP.NET Core Web API, .NET 8, C#, SQL Server, Entity Framework Core, React, TypeScript, JavaScript, Vite, Tailwind CSS, React Router, Axios, Zustand, Flutter, Dart, Provider, Sage X3, SignalR, Konnect, Brevo, n8n, Swagger, JWT, GitHub, Scrum, UML.
 
-Repository: [PROJET-PFE](https://github.com/Melek-Lahmar/PROJET-PFE)
+Repository: [PROJET-PFE](https://github.com/Melek-Lahmar/pfe-ecommerce-logistique-transit)
 
 ---
 
