@@ -1,61 +1,153 @@
-# 👋 Hi, I'm Melek Lahmar
+# Hi, I'm Melek Lahmar 👋
 
-🎓 **3rd-Year Information Systems Development Student** | ISET Sfax  
-💻 Passionate about **Web & Application Development**, **Databases**, and **Cloud Technologies**  
-🚀 Seeking a **Graduation Internship (PFE)** starting **February 2026**
+**Junior Full-Stack Developer | ASP.NET Core • React • SQL Server | ERP & Business Applications**
+
+I am an Information Technology graduate specialized in **Information Systems Development** from **ISET Sfax, Tunisia**.  
+I build business-oriented web applications, ERP-connected platforms, and full-stack solutions using **ASP.NET Core**, **React**, **SQL Server**, and modern development tools.
+
+My main focus areas are:
+
+- Full-stack web development
+- Business applications and ERP integration
+- E-commerce and logistics platforms
+- REST API development
+- Database design and management
+- Workflow automation and dashboards
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Bachelor’s Degree in Information Technology – Information Systems Development
+- 💼 Junior Full-Stack Developer profile
+- 🔧 Main stack: ASP.NET Core, C#, React, TypeScript, SQL Server
+- 🧩 Interested in ERP systems, Sage X3 integration, e-commerce, logistics and business workflows
+- 🌍 Open to junior software development, full-stack development and remote opportunities
+- 🇹🇳 Based in Sfax, Tunisia
 
 ---
 
 ## 🛠️ Technical Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### Backend
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & ERP
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP_Systems-1F2937?style=for-the-badge)
+
+### Mobile, Automation & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![JEE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-## 📚 Selected Academic Projects
+## 🚀 Featured Projects
 
-**1️⃣ Stock & Sales Management App** – *ASP.NET Core MVC + SQL Server + Entity Framework*  
-- Managed products, clients, and sales with automated invoice generation.  
-- Implemented real-time stock updates on purchases and sales.  
-- Designed a clean and maintainable MVC architecture.
+### 1. E-commerce & Logistics Platform Integrated with Sage X3
 
-**2️⃣ Delivery Management System** – *JavaFX + MySQL (MVC & DAO)*  
-- Managed deliveries, customers, and logistics efficiently.  
-- Applied DAO pattern for database operations and maintainability.
+Final-year project developed at **InfoSoft**.  
+The solution is an integrated e-commerce and logistics platform synchronized with **Sage X3**.
 
-**3️⃣ Ecommerce Website** – *PHP + MySQL + Bootstrap*  
-- Developed a full-featured e-commerce platform.  
-- Implemented product catalog, shopping cart, and user authentication.
+Main modules:
 
----
+- Catalog and product management
+- B2C / B2B customer workflows
+- Orders and delivery notes
+- Stock and warehouse synchronization
+- Delivery tracking and logistics workflows
+- Complaints management
+- Dashboards and reporting
+- Flutter mobile application
+- n8n workflow automation and chatbot support
 
+**Tech stack:** ASP.NET Core Web API, .NET 8, C#, SQL Server, Entity Framework Core, React, TypeScript, Flutter, Sage X3, SignalR, Konnect, Brevo, n8n.
 
-
-## 💻 GitHub Repositories
-
-Explore my work: **[GitHub – Melek Lahmar](https://github.com/Melek-Lahmar)**  
-
-- **[StockSalesManagement](https://github.com/Melek-Lahmar/ApplicationDeGestionERP)** – ASP.NET Core MVC + SQL Server + Entity Framework  
-
+Repository: [PROJET-PFE](https://github.com/Melek-Lahmar/PROJET-PFE)
 
 ---
 
-## 📫 Contact Me
+### 2. Business Management / ERP Web Application
 
-- **LinkedIn:** [Melek Lahmar](https://www.linkedin.com/in/melek-lahmar-2451962b6) – Let’s connect for networking or internship opportunities.  
-- **Email:** [lahmarmelek67@gmail.com](mailto:lahmarmelek67@gmail.com) – Reach out for professional inquiries or collaboration.  
-- **GitHub:** [github.com/Melek-Lahmar](https://github.com/Melek-Lahmar) – Check out my projects and contributions.
+Business web application developed during my internship at **InfoSoft**.
+
+Main modules:
+
+- Product management
+- Customer management
+- Supplier management
+- Category management
+- Invoice management
+- Sales statistics and reporting
+
+**Tech stack:** ASP.NET Core MVC, C#, SQL Server, Entity Framework Core, JavaScript, jQuery, AJAX, Chart.js, HTML, CSS, Bootstrap.
+
+Repository: [ApplicationDeGestionERP](https://github.com/Melek-Lahmar/ApplicationDeGestionERP)
+
+---
+
+### 3. Employer Declaration Management – Tunisia
+
+Application project focused on employer declaration workflows in Tunisia.
+
+**Tech stack:** Software analysis, database modeling, business rules, web application architecture.
+
+Repository: [DeclarationEmployerTunisie](https://github.com/Melek-Lahmar/DeclarationEmployerTunisie)
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Information Technology**  
+Specialization: **Information Systems Development**  
+Higher Institute of Technological Studies of Sfax – ISET Sfax  
+2023 – 2026
+
+Relevant coursework:
+
+- Web Development
+- Object-Oriented Programming
+- Database Design and Management
+- Advanced Databases
+- Software Architecture
+- Service-Oriented Architecture
+- Web Application Security
+- Machine Learning
+- Big Data Management
+- Mobile and Web Development
+
+---
+
+## 📜 Certifications
+
+- **IELTS Academic – Overall Band Score 6.5 / CEFR B2**
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+
+---
+
+## 🌐 Languages
+
+- Arabic: Native
+- French: C1
+- English: B2 – IELTS Academic 6.5
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/melek-lahmar-2451962b6](https://www.linkedin.com/in/melek-lahmar-2451962b6/)
+- GitHub: [github.com/Melek-Lahmar](https://github.com/Melek-Lahmar)
+- Email: [lahmarmelek67@gmail.com](mailto:lahmarmelek67@gmail.com)
